@@ -32,7 +32,7 @@ import com.safezoo.genericUtility.WebDriverUtility;
 @Listeners(com.safezoo.genericUtility.ListnerImplimentationClass.class)
 			public class AddAnimalDetailsTest extends BaseClass {
 			
-			@Test
+			@Test//
 			public void AddAnimal() {
 			
 				ListnerImplimentationClass lic=new ListnerImplimentationClass();
